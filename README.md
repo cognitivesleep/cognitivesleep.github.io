@@ -25,7 +25,7 @@ _The app will automatically keep them for later reproduction._
 
 _Now, once your day is over and you ́re asleep, at some point you'll enter a particular stage of sleep in which one generally becomes more adept at receiving and interpreting music and sound frequencies.
 Our app will take note of this and begin to re-play those previously saved songs. 
-These, in turn, are linked internally with the issues previously confronted with and, as such, they'll allow YOU to go through a neurological re-programming, in which youll be able to both consciously and unconsciously seek novel ways in order to reach greater solutions._
+These, in turn, are linked internally with the issues previously confronted with and, as such, they'll allow YOU to go through a neurological re-programming, in which you'll be able to both consciously and unconsciously seek novel ways in order to reach clearer solutions._
 
 
 The use of Cognitive Behavioral Therapy to increase ‘problem-solving’ techniques during sleep and waking hours is gaining widespread interest as research into this area begins to show its many potential benefits.  
