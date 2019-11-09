@@ -4,6 +4,10 @@
 Enhance your problem solving abilities through sound and music during sleep time. Ready?
 
 
+_How does it work?_
+
+_Choose a playlist that feels adequate for the moment you find yourself in; i.e “chill” playlist during your working hours since you ́re looking to generate a calm and relaxing atmosphere.
+
 ### Playlists:
 
 - **Study**
@@ -13,12 +17,8 @@ Enhance your problem solving abilities through sound and music during sleep time
 - **Excercise**
 - **Chill**
 
-
-_How does it work?_
-
-_Choose a playlist that feels adequate for the moment you find yourself in; i.e “chill” playlist during your working hours since you ́re looking to generate a calm and relaxing atmosphere.
-Once the playlist is selected and being reproduced, you carry the sole job of, when confronted with an issue at hand which can’t be presently solved, write down the songs which were being heard at those precise moments. 
-Once work is finished, remember to save those songs and the app will automatically keep them for later reproduction. 
+Once the playlist is selected and being reproduced, you carry the sole job of, when confronted with an issue at hand which can’t be presently solved, register the songs which were being heard at those precise moments. 
+Once you've finished work, remember to save those songs and the app will automatically keep them for later reproduction. 
 Finally, once you ́re asleep and enter a particular stage of sleep in which you’re more open to receiving sound frequencies, our “Cognitive Sleep” app will begin to re-play those previously saved songs. These, in turn, are now linked internally within yourself with the issues previously raised during work, and as such, they will allow for a re-programming to be undertaken, in which you will consciously and unconsciously seek novel ways to solve the issues previously raised._
 
 
