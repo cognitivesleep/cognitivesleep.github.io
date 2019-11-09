@@ -1,4 +1,4 @@
-# Welcome to Cognitive Sleep
+# Cognitive Sleep
 
 
 Enhance your problem solving abilities through sound and music during sleep time. Ready?
