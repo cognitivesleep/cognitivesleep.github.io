@@ -19,11 +19,11 @@ _To begin with, choose a playlist that feels adequate for the moment you find yo
 - **Study**
 - **Work**
 
-_During the time you`ll be listening to this playlist, you carry the sole job of, when confronted with any issue at hand which you feel you can’t presently solve, remember to click on "save song" in order for us to keep a record of it._ 
+_During this time, you carry the sole job of, when confronted with any issue at hand which you feel you can’t presently solve, click on "save song" in order for us to keep a record of it._ 
 
 _The app will automatically keep them for later reproduction._
 
-_Now, once your day is over and you ́re asleep, at some point you`ll enter a particular stage of sleep in which one generally becomes more inclined towards receiving and interpreting music and certain sound frequencies.
+_Now, once your day is over and you ́re asleep, at some point you`ll enter a particular stage of sleep in which one generally becomes more adept at receiving and interpreting music and sound frequencies.
 Our app will take note of this and begin to re-play those previously saved songs. 
 These, in turn, are linked internally with the issues previously confronted with and, as such, they'll allow YOU to go through a neurological re-programming, in which youll be able to both consciously and unconsciously seek novel ways`in order to reach greater solutions._
 
