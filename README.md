@@ -1,5 +1,6 @@
-title: Welcome to Cognitive Sleep´s homepage
-description: enhance your cognitive abilities through the use of sound and music during sleep time
+## Welcome to Cognitive Sleep´s homepage
+
+Enhance your cognitive abilities through the use of sound and music during sleep time.
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
