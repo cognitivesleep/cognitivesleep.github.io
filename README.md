@@ -1,7 +1,7 @@
 # Cognitive Sleep
 
 
-Enhance your problem solving abilities through sound and music during your sleep time. Ready?
+Enhance your problem solving abilities through sound and music while asleep. Ready?
 
 
 **How does it work?**
@@ -16,6 +16,7 @@ _Choose a playlist that feels adequate for the moment you find yourself in_
 - **Sleep**
 - **Meditate**
 - **Workout**
+
 
 _Once the playlist is selected and being reproduced, you carry the sole job of, when confronted with an issue at hand which can’t be presently solved, register the songs which were being heard at those precise moments. 
 Once you've finished work, remember to save those songs and the app will automatically keep them for later reproduction. 
