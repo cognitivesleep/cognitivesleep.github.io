@@ -23,7 +23,7 @@ _During this time, you carry the sole job of, when confronted with a dilemma or 
 
 _The app will automatically keep these tracks for later reproduction._
 
-_Now, once your day is over and you're asleep, at some point you'll enter a particular stage of sleep in which an individual tends to become more adept towards receiving and interpreting music and information.
+_Now, once your day is over and you're asleep, at some point you'll enter a particular stage of sleep in which an individual tends to become more open towards receiving and interpreting music and information.
 Our app will take note of this, and begin to re-play those previously saved songs. 
 These, in turn, now have an emotional link with the issues previously confronted and, as such, they'll allow YOU to go through a neurological re-programming, in which both consciously and unconsciously you'll be more apt towards finding novel ways to obtain smarter, clearer solutions._
 
