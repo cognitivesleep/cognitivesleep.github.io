@@ -6,21 +6,22 @@ Enhance your problem solving abilities through sound and music while asleep. Rea
 
 **How does it work?**
 
-_Choose a playlist that feels adequate for the moment you find yourself in_
+_Choose a playlist that feels adequate for the moment you find yourself in:_
 
 ### Playlists:
 
-- **Work**
 - **Study**
 - **Relax**
 - **Sleep**
 - **Meditate**
-- **Workout**
+- **Work**
+- **Excercise**
 
 
-_Once the playlist is selected and being reproduced, you carry the sole job of, when confronted with an issue at hand which can’t be presently solved, register the songs which were being heard at those precise moments. 
-Once you've finished work, remember to save those songs and the app will automatically keep them for later reproduction. 
-Finally, once you ́re asleep and enter a particular stage of sleep in which you’re more open to receiving sound frequencies, our “Cognitive Sleep” app will begin to re-play those previously saved songs. These, in turn, are now linked internally within yourself with the issues previously raised during work, and as such, they will allow for a re-programming to be undertaken, in which you will consciously and unconsciously seek novel ways to solve the issues previously raised._
+_Once the playlist is selected and being heard, you carry the sole job of, when confronted with an issue at hand which can’t be presently solved, click on "save song" in order to keep hold of those songs which were being heard at those precise moments._ 
+
+_Once you've finished work, remember to save those songs and the app will automatically keep them for later reproduction. 
+Finally, once you ́re asleep and enter a particular stage of sleep in which you’re more open to receiving sound frequencies, our app will begin to re-play those previously saved songs. These, in turn, are now linked internally within yourself with the issues previously raised during work, and as such, they will allow for a re-programming to be undertaken, in which you will consciously and unconsciously seek novel ways to solve the issues previously raised._
 
 
 Our **purpose** behind “Cognitive Sleep” is to self-experiment and promote one’s own cognitive therapy, by using the possibilities which sleep, sound and music have installed for us, and as such promote a state of well-being, increasing our problem-solving abilities and having an overall positive effect on our quality of life. 
