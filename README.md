@@ -4,19 +4,18 @@
 Time to enhance your problem solving skills through sound and music... while asleep. Ready?
 
 Our **purpose** behind “Cognitive Sleep” is to promote self-experiment through one’s own cognitive therapy, allowing the possibilities which sleep, sound and music have installed for us and as such promote:
-. a state of well-being, 
-. an increase in problem-solving abilities and
-. an overall positive effect on our quality of life. 
-
+- _a state of well-being,_
+- _an increase in problem-solving abilities and_
+- _an overall positive effect on our quality of life_ 
 
 **So... how does it work?**
 
-_To start off, choose a playlist that feels adequate for the moment you find yourself in:_
+_To begin with, choose a playlist that feels adequate for the moment you find yourself in:_
 
 ### Playlists:
 
-- **Study**
 - **Work**
+- **Study**
 
 _Once the playlist is selected and being reproduced, you carry the sole job of, when confronted with an issue at hand which can’t be presently solved, click on "save song" in order to keep hold of the songs which were being heard at those precise moments._ 
 
