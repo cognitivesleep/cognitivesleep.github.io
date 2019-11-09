@@ -30,33 +30,3 @@ Our **purpose** behind “Cognitive Sleep” is to self-experiment and promote o
 
 The use of Cognitive Behavioral Therapy to increase ‘problem-solving’ techniques during sleep and waking hours is gaining widespread interest as research into this area begins to show its many potential benefits.  
 If the user is willing to help and improve the scientific knowledge concerning the topics of sleep and cognitive therapy, the data collected can be donated to further increase the knowledge available and as such, allow for a more precise, tailored work to be done for each individual and our society as a whole.  
-
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
