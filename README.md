@@ -8,7 +8,7 @@ Our **purpose** behind “Cognitive Sleep” is to promote self-experiment throu
 - _an increase in problem-solving abilities and_
 - _an overall positive effect on our quality of life_ 
 
-We also know that sleep has a clear impact on our waking performance, as Sanders et. al (2019) say, the replay of recently learned memories during sleep putatively strengthens memory. As such, sleep-related memory processes not only strengthen but can also optimize, organize, and transform information (Ellenbogen et al, 2007). 
+We also know that sleep has a clear impact on our waking performance, as Sanders et. al (2019) said, the replay of recently learned memories during sleep putatively strengthens memory. As such, sleep-related memory processes not only strengthen but can also optimize, organize, and transform information (Ellenbogen et al, 2007). 
 
 **So... how does it work?**
 
