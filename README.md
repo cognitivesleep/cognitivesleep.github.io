@@ -8,7 +8,7 @@ Our **purpose** behind “Cognitive Sleep” is to promote self-experiment throu
 - _an increase in problem-solving abilities and_
 - _an overall positive effect on our quality of life_ 
 
-We also know that sleep has a clear impact on our waking performance, as Sanders et al., 2019 say, the replay of recently learned memories during sleep putatively strengthens memory. Sleep-related memory processes not only strengthen but can also optimize, organize, and transform information (Ellenbogen et al, 2007). 
+We also know that sleep has a clear impact on our waking performance, as Sanders et. al (2019) say, the replay of recently learned memories during sleep putatively strengthens memory. As such, sleep-related memory processes not only strengthen but can also optimize, organize, and transform information (Ellenbogen et al, 2007). 
 
 **So... how does it work?**
 
@@ -16,15 +16,16 @@ _To begin with, choose a playlist that feels adequate for the moment you find yo
 
 ### Playlists:
 
-- **Work**
 - **Study**
+- **Work**
 
-_Now that you`re listening the playlist, you carry the sole job of, when confronted with any issue at hand which you feel you can’t at present solve, remember to click on "save song" in order to keep a record of it._ 
+_During the time you`ll be listening to this playlist, you carry the sole job of, when confronted with any issue at hand which you feel you can’t presently solve, remember to click on "save song" in order for us to keep a record of it._ 
 
 _The app will automatically keep them for later reproduction._
 
-_Now, once you ́re asleep and enter a particular stage of sleep in which you generally become more inclined towards receiving and interpreting music and certain sound frequencies, our app will take note of this and begin to re-play those previously saved songs. 
-These, in turn, are linked internally with the issues previously confronted with and, as such, they'll allow for a re-programming to be undertaken, in which you will be able to both consciously and unconsciously seek novel ways to reach solutions._
+_Now, once your day is over and you ́re asleep, at some point you`ll enter a particular stage of sleep in which one generally becomes more inclined towards receiving and interpreting music and certain sound frequencies.
+Our app will take note of this and begin to re-play those previously saved songs. 
+These, in turn, are linked internally with the issues previously confronted with and, as such, they'll allow YOU to go through a neurological re-programming, in which youll be able to both consciously and unconsciously seek novel ways`in order to reach greater solutions._
 
 
 The use of Cognitive Behavioral Therapy to increase ‘problem-solving’ techniques during sleep and waking hours is gaining widespread interest as research into this area begins to show its many potential benefits.  
