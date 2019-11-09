@@ -1,6 +1,6 @@
-## Welcome to Cognitive Sleep!
+title: Welcome to Cognitive Sleep´s homepage
+description: enhance your cognitive abilities through the use of sound and music during sleep time
 
-You can use the [editor on GitHub](https://github.com/cognitivesleep/cognitivesleep.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
