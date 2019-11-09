@@ -1,7 +1,7 @@
 # Cognitive Sleep
 
 
-Enabling you to enhance your problem solving skills through sound and music, while asleep.
+Enabling you to enhance your problem solving skills through music and sound, while asleep.
 
 Our **purpose** behind “Cognitive Sleep” is to promote self-experiment through one’s own cognitive therapy, allowing the possibilities which sleep, sound and music have installed for us and as such promote:
 - _a state of well-being,_
