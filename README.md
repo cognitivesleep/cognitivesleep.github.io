@@ -20,13 +20,12 @@ _To begin with, choose a playlist which feels adequate for the moment you find y
 - **Study**
 - **Work**
 
-_During the time it's being heard, you carry the sole job of, when confronted with a dilemma or issue at hand which you feel can’t be presently solved, click on the "save song" icon in order to keep a register of that moment paired with that song._ 
+_During the time it's being played, your task is to, when confronted with a problem or issue which you feel can’t be presently solved, click on the "save song" icon in order to keep record of the moment paired with the appropriate song._ 
 
 _The app will automatically save these tracks for later reproduction._
 
-_Now, once you've gone to sleep, at some point you'll enter a particular stage of sleep in which one tends to become more receptive towards interpreting exterior stimuli such as sound and music.
-Our app will take note of this, and begin to re-play those previously saved tracks. 
-These, in turn, shoulde by now linked with the issues previously confronted with and, as such, allow you to go through a memory reactivation process._
+_Now, once you've gone to sleep, our app will begin to re-play those previously saved tracks. 
+These, in turn, should be linked by now with the problems previously confronted and, as such, allow you to go through a memory reactivation process for improved next-day problem solving abilities._
 
 
 The use of Cognitive Behavioral Therapy to increase ‘problem-solving’ skills during sleep and waking hours is gaining widespread interest as research into this area is beginning to show its many potential benefits. 
