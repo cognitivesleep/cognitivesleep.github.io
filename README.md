@@ -5,7 +5,7 @@ Enhance your problem solving skills through sound, while asleep.
 
 Our **purpose** behind “Cognitive Sleep” is to promote self-experiment through our own personal cognitive therapy, allowing the possibilities which sleep, sound and music have installed for us.
 
-Our proposition is based on Sanders, Osburn, Paller and Beeman´s (2019) research article, called "Targeted Memory Reactivation During Sleep Improves Next-Day Problem Solving". They proposed an experiment whereby participants were presented with puzzles, each arbitrarily linked with a different sound. While participants slept overnight, half of the sounds associated with the puzzles they had not solved yet were surrepititously presented. The following morning, they discovered there was a 55% improvement regarding participants solving cued against uncued puzzles.
+Our proposition is based on Sanders, Osburn, Paller and Beeman´s (2019) research article, called "Targeted Memory Reactivation During Sleep Improves Next-Day Problem Solving". They proposed an experiment whereby participants were presented with puzzles, each arbitrarily linked with a different sound. While participants slept overnight, half of the sounds associated with the puzzles they had not solved yet were surreptitiously presented. The following morning, they discovered there was a 55% improvement regarding participants solving cued against uncued puzzles.
 
 As such, sleep-related memory processes not only strengthen but can also optimize, organize, and transform information (Ellenbogen et al, 2007). 
 
