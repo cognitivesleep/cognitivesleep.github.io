@@ -11,7 +11,7 @@ Our experiment utilises the same guidelines, with the difference that we provide
 
 _Our only requirement is for the user to become a Spotify Premium user, though not to worry if you currently aren't one, since we are giving our users a free 1-month Spotify Premium pass with the opportunity of having a continuous renewal as long as the self-experiment is kept underway and the findings shared for scientific purposes._
 
-**So... how does it work?**
+**So... how does our experiment work?**
 
 _To begin with, choose a playlist which feels adequate for the moment you find yourself in:_
 
@@ -20,13 +20,13 @@ _To begin with, choose a playlist which feels adequate for the moment you find y
 - **Study**
 - **Work**
 
-_During this time, you carry the sole job of, when confronted with a dilemma or issue at hand which you feel can’t be presently solved, click on the "save song" icon in order to keep a register of that moment._ 
+_During the time it's being heard, you carry the sole job of, when confronted with a dilemma or issue at hand which you feel can’t be presently solved, click on the "save song" icon in order to keep a register of that moment paired with that song._ 
 
-_The app will automatically keep these tracks for later reproduction._
+_The app will automatically save these tracks for later reproduction._
 
-_Now, once you've fallen asleep, at some point you'll enter a particular stage of sleep in which an individual tends to become more receptive towards interpreting exterior stimuli such as sound and music.
-Our app will take note of this moment, and begin to re-play those previously saved tracks. 
-These, in turn, should by now be linked with the issues previously confronted with and, as such, allow you to go through an internal re-programming, a memory reactivation process._
+_Now, once you've gone to sleep, at some point you'll enter a particular stage of sleep in which one tends to become more receptive towards interpreting exterior stimuli such as sound and music.
+Our app will take note of this, and begin to re-play those previously saved tracks. 
+These, in turn, shoulde by now linked with the issues previously confronted with and, as such, allow you to go through a memory reactivation process._
 
 
 The use of Cognitive Behavioral Therapy to increase ‘problem-solving’ skills during sleep and waking hours is gaining widespread interest as research into this area is beginning to show its many potential benefits. 
