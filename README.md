@@ -7,7 +7,7 @@ Our **purpose** behind “Cognitive Sleep” is to promote self-experiment throu
 
 Our proposal is based on Sanders, Osburn, Paller and Beeman´s (2019) research article, based on how "Targeted Memory Reactivation During Sleep Improves Next-Day Problem Solving". They proposed an experiment whereby participants were presented with puzzles, each arbitrarily linked with a different sound. While participants slept overnight, half of the sounds associated with the puzzles they had not solved yet were privately presented. The following morning, they discovered a 55% improvement regarding participants solving cued against uncued puzzles.
 
-Our experiment utilises the same guidelines, with the difference that we provide purposefully composed soundscapes and music for the user to use as a bridge to their memory reactivation process.
+Our experiment utilises the same guidelines, with the difference that we provide purposefully composed soundscapes and music for the user to use as a bridge to their memory reactivation processes. As well, our music is perfectly suited for "masking" outside noises and maintaining a more harmonic atmosphere within the environment.
 
 _Our only requirement is for the user to become a Spotify Premium user, though not to worry if you currently aren't one, since we are giving our users a free 1-month Spotify Premium pass with the opportunity of having a continuous renewal as long as the self-experiment is kept underway and the findings shared for scientific purposes._
 
