@@ -20,7 +20,7 @@ _To begin with, choose a playlist which feels adequate for the moment you find y
 - **Study**
 - **Work**
 
-_During the time it's being played, your task is to, when confronted with a problem or issue which you feel can’t be presently solved, click on the "save song" icon in order to keep record of the moment paired with the appropriate song._ 
+_During the time it's being played, your task is to, when confronted with a problem or issue which you feel can’t be presently solved, click on the "save song" icon in order to keep a record of the moment paired with the appropriate song._ 
 
 _The app will automatically save these tracks for later reproduction._
 
