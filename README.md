@@ -7,9 +7,9 @@ Our **purpose** behind “Cognitive Sleep” is to promote self-experiment throu
 
 Our proposal is based on Sanders, Osburn, Paller and Beeman´s (2019) research article, based on how "Targeted Memory Reactivation During Sleep Improves Next-Day Problem Solving". They proposed an experiment whereby participants were presented with puzzles, each arbitrarily linked with a different sound. While participants slept overnight, half of the sounds associated with the puzzles they had not solved yet were presented to them. The following morning, they discovered a 55% improvement regarding participants solving cued against uncued puzzles.
 
-Our experiment utilises the same guidelines, with the difference that we provide purposefully composed soundscapes and music for the participant to use as a bridge to their memory reactivation processes. As well, our music is perfectly suited for "masking" unwanted outside noises and to maintain harmony within the environment.
+Our experiment uses the same guidelines, with the difference that we provide purposefully composed soundscapes and music for the participant to use for their memory reactivation processes. In addition, our music is perfectly suited for "masking" unwanted outside noises and to maintain a harmonious atmosphere.
 
-_* Our only requirement is for you to have a Spotify Premium account, though if you currently don’t have one, there's no need to worry. As part of our incentive towards fellow potential users, we are giving out a free 1-month Spotify Premium pass with the opportunity of a continuous renewal as long as the self-experiment is kept underway and the findings shared for scientific purposes.._
+_* The only requirement is for you to have a Spotify Premium account, though if you currently don’t have one, there's no need to worry. As part of our incentive towards fellow potential users, we are giving out a free 1-month Spotify Premium pass with the opportunity of a continuous renewal as long as the self-experiment is kept underway and the findings shared for scientific purposes.._
 
 **So... how does our cognitive experiment work?**
 
