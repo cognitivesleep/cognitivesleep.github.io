@@ -3,13 +3,17 @@
 
 Enhance your problem solving skills through sound and music, while asleep.
 
+## Objectives:
+
 Our **purpose** behind “Cognitive Sleep” is to promote self-experiment through our own personal cognitive therapy, allowing the possibilities which sleep, sound and music have installed for us.
 
-Our proposal is based on Sanders, Osburn, Paller and Beeman´s (2019) research article, based on how "Targeted Memory Reactivation During Sleep Improves Next-Day Problem Solving". They proposed an experiment whereby participants were presented with puzzles, each arbitrarily linked with a different sound. While participants slept overnight, half of the sounds associated with the puzzles they had not solved yet were presented to them. The following morning, they discovered a 55% improvement regarding participants solving cued against uncued puzzles.
+Our experiment is based on Sanders, Osburn, Paller and Beeman´s (2019) research article, based on how "Targeted memory reactivation during sleep improves next-day problem solving". They conducted a test whereby participants were presented with puzzles, each arbitrarily linked with a different sound. Following this, while participants slept overnight, half of the sounds associated with the puzzles they had not solved yet were presented to them. The next morning, they discovered a 55% improvement regarding participants solving cued against uncued puzzles.
 
-Our experiment follows the same guidelines, with the difference that we provide purposefully composed soundscapes and music for the participant to reach a clearer, more fulfilling memory reactivation process. In addition, our music is perfectly suited for "masking" unwanted outside noises, with the possibility of generating a harmonious atmosphere within the environment one's in.
+Our experiment follows the same guidelines, with the difference that we provide purposefully composed soundscapes and music for the participant to reach a clearer, more fulfilling memory reactivation process. We have created Spotify playlists specifically related to the areas of _work_ and _study_, and plan on increasing the available selection soon. In addition, our music is perfectly suited for "masking" unwanted outside noises, with the possibility of generating a harmonious atmosphere within the environment one's in.
 
-_* Our only requirement is for the participant to have a Spotify Premium account, though if you currently don't have one, there's no need to worry. As part of our incentive towards fellow potential users, we are giving out a free 1-month Spotify Premium pass with the opportunity of continuous renewal as long as the self-experiment is kept underway and the findings are being shared for scientific purposes._
+## Requirements:
+
+_* Our only requirement is for the user to have a Spotify Premium account, though if currently without one, there's no need to worry. As part of our incentive towards fellow potential participants, we are giving out a free 1-month Spotify Premium pass with the opportunity of continuous renewal as long as the self-experiment is kept underway and the findings shared for scientific purposes._
 
 **So, how does our cognitive experiment work?
 Let's give it a try...**
