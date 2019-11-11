@@ -31,7 +31,7 @@ _While being played, your sole task is to, if confronted with any problem or iss
 _Cognitive Sleep will automatically save these tracks for later reproduction._
 _Now, once you've gone to sleep, our app will take note of this and begin to re-play those previously saved tracks in chronological order._
 
-### But, how does it know when to begin?
+### How does it know when to begin?
 
 _The app will detect the moment in which the user has entered into deep sleep/slow wave sleep, which is the ideal moment for conducting the experiment, whereby Delta waves are spotted in its internal EEG signal software.
 These tracks should be linked by now with your previously confronted issues and, as such, should allow you to go through an efficient memory reactivation process for obtaining improved next-day problem solving abilities._
@@ -42,4 +42,4 @@ The use of Cognitive Behavioral Therapy to increase ‘problem-solving’ skills
 
 If the user is willing to help improve the current scientific knowledge concerning the topics of sleep and cognitive therapy, the data collected can be donated to further increase the knowledge available and as such, allow for a more precise, tailored work to be done for each individual case.  
 
-### Contact Info: 
+## Contact Info: 
