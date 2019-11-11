@@ -9,7 +9,7 @@ Our proposal is based on Sanders, Osburn, Paller and Beeman´s (2019) research a
 
 Our experiment follows the same guidelines, with the difference that we provide purposefully composed soundscapes and music for the participant to reach a clearer, more fulfilling memory reactivation process. In addition, our music is perfectly suited for "masking" unwanted outside noises, with the possibility of generating a harmonious atmosphere within the environment one's in.
 
-_* Our only requirement is for the participant to have a Spotify Premium account, though if you don't currently have one, there's no need to worry. As part of our incentive towards fellow potential users, we are giving out a free 1-month Spotify Premium pass with the opportunity of continuous renewal as long as the self-experiment is kept underway and the findings are being shared for scientific purposes._
+_* Our only requirement is for the participant to have a Spotify Premium account, though if you currently don't have one, there's no need to worry. As part of our incentive towards fellow potential users, we are giving out a free 1-month Spotify Premium pass with the opportunity of continuous renewal as long as the self-experiment is kept underway and the findings are being shared for scientific purposes._
 
 **So, how does our cognitive experiment work?
 Lets give it a try...**
