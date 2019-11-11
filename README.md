@@ -21,11 +21,11 @@ _To begin with, choose a playlist which feels adequate for the moment you find y
 - **Study**
 - **Work**
 
-_While it's being played, your sole task is to, if confronted with any problem or issue which can’t be presently solved, go to the playlist and click on the "save song" icon in order to keep a record of both the song and the time it was played._
+_While being played, your sole task is to, if confronted with any problem or issue which can’t be presently solved, go to the app and click on the "save song" icon in order to keep a record of both the song and the time it was played._
 
 _Cognitive Sleep will automatically save these tracks for later reproduction._
 
-_Now, once you've gone to sleep, the app will begin to re-play those previously saved tracks in chronological order. 
+_Now, once you've gone to sleep, our app will begin to re-play those previously saved tracks in chronological order. 
 These tracks should now be linked with your previously confronted issues and, as such, should allow you to go through an efficient memory reactivation process for attaining improved problem solving abilities._
 
 
