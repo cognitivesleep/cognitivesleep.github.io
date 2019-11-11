@@ -12,7 +12,7 @@ Our experiment follows the same guidelines, with the difference that we provide 
 _* Our only requirement is for the participant to have a Spotify Premium account, though if you currently don't have one, there's no need to worry. As part of our incentive towards fellow potential users, we are giving out a free 1-month Spotify Premium pass with the opportunity of continuous renewal as long as the self-experiment is kept underway and the findings are being shared for scientific purposes._
 
 **So, how does our cognitive experiment work?
-Lets give it a try...**
+Let's give it a try...**
 
 _To begin with, choose a playlist which feels adequate for the moment you find yourself in:_
 
@@ -26,7 +26,7 @@ _While being played, your sole task is to, if confronted with any problem or iss
 _Cognitive Sleep will automatically save these tracks for later reproduction._
 
 _Now, once you've gone to sleep, our app will begin to re-play those previously saved tracks in chronological order. 
-These tracks should now be linked with your previously confronted issues and, as such, should allow you to go through an efficient memory reactivation process for attaining improved next-day problem solving abilities._
+These tracks should now be linked with your previously confronted issues and, as such, should allow you to go through an efficient memory reactivation process for obtaining improved next-day problem solving abilities._
 
 
 The use of Cognitive Behavioral Therapy to increase ‘problem-solving’ skills during sleep and waking hours is gaining widespread interest as research into this area is beginning to show its many potential benefits. 
