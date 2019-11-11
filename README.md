@@ -26,15 +26,16 @@ _To begin with, choose a playlist which feels adequate for the moment you find y
 - **Study**
 - **Work**
 
-_While being played, your sole task is to, if confronted with any problem or issue which can’t be presently solved, go to the app and click on the "save song" icon in order to keep a record of both the song and the time it was played._
+_While being played, your sole task is to, if confronted with any problem or issue during this time, open the app and click on the "save song" icon in order to keep a record of both the song and the time it was played._
 
 _Cognitive Sleep will automatically save these tracks for later reproduction._
 _Now, once you've gone to sleep, our app will take note of this and begin to re-play those previously saved tracks in chronological order._
 
-### How does it know when to begin?
+### Now, how does it know when to begin?
 
-_The app will detect the moment in which the user has entered into deep sleep/slow wave sleep, which is the ideal moment for conducting the experiment, whereby Delta waves are spotted in its internal EEG signal software.
-These tracks should be linked by now with your previously confronted issues and, as such, should allow you to go through an efficient memory reactivation process for obtaining improved next-day problem solving abilities._
+_The app will detect the moment in which the user has entered into deep sleep/slow wave sleep, which is the ideal moment for conducting the experiment, whereby Delta waves are spotted in its internal EEG signal software._
+
+_These tracks should be linked by now with your previously confronted issues and, as such, should allow you to go through an efficient memory reactivation process for obtaining improved next-day problem solving abilities._
 
 ## Added Features:
 In addition, our music is perfectly suited for "masking" unwanted outside noises, with the possibility of generating a harmonious atmosphere within the environment one's in.
