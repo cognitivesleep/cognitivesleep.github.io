@@ -9,9 +9,9 @@ Our proposal is based on Sanders, Osburn, Paller and Beeman´s (2019) research a
 
 Our experiment utilises the same guidelines, with the difference that we provide purposefully composed soundscapes and music for the user to use as a bridge to their memory reactivation processes. As well, our music is perfectly suited for "masking" outside noises and maintaining a more harmonic atmosphere within the environment.
 
-_Our only requirement is for the user to become a Spotify Premium user, though not to worry if you currently aren't one, since we are giving our users a free 1-month Spotify Premium pass with the opportunity of having a continuous renewal as long as the self-experiment is kept underway and the findings shared for scientific purposes._
+_Our only requirement is for you to be a Spotify Premium user, though if you currently aren't one, there's no need to worry since we are giving out for participants a free 1-month Spotify Premium pass with the opportunity of having a continuous renewal as long as the self-experiment is kept underway and the findings shared for scientific purposes._
 
-**So... how does our experiment work?**
+**So... how does our cognitive experiment work?**
 
 _To begin with, choose a playlist which feels adequate for the moment you find yourself in:_
 
@@ -20,12 +20,12 @@ _To begin with, choose a playlist which feels adequate for the moment you find y
 - **Study**
 - **Work**
 
-_During the time it's being played, your task is to, when confronted with a problem or issue which you feel can’t be presently solved, click on the "save song" icon in order to keep a record of the moment paired with the appropriate song._ 
+_During the time it's being played, your task is to, when confronted with an issue or problem which you feel can’t be presently solved, click on the "save song" icon in order to keep a record of the moment paired with the song._ 
 
-_The app will automatically save these tracks for later reproduction._
+_Our app will automatically save these tracks for later reproduction._
 
-_Now, once you've gone to sleep, our app will begin to re-play those previously saved tracks. 
-These, in turn, should be linked by now with the problems previously confronted and, as such, allow you to go through a memory reactivation process for improved next-day problem solving abilities._
+_Now, once you've gone to sleep, our app will begin to re-play those previously saved tracks in logical order. 
+These, in turn, should be linked by now with your previously confronted problems and, as such, could potentially allow you to go through a memory reactivation process for improved problem solving abilities._
 
 
 The use of Cognitive Behavioral Therapy to increase ‘problem-solving’ skills during sleep and waking hours is gaining widespread interest as research into this area is beginning to show its many potential benefits. 
