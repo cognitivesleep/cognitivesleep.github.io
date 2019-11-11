@@ -13,12 +13,13 @@ Our experiment follows the same guidelines, with the difference that we provide 
 
 ## Requirements:
 
-_* Our only requirement is for the user to have a Spotify Premium account, though if currently without one, there's no need to worry. As part of our incentive towards fellow potential participants, we are giving out a free 1-month Spotify Premium pass with the opportunity of continuous renewal as long as the self-experiment is kept underway and the findings shared for scientific purposes._
+_* Our only requirements are for the user to download our Cognitive Sleep app and have a Spotify Premium account, though if currently without one, there's no need to worry. As part of our incentive towards fellow potential participants, we are giving out a free 1-month Spotify Premium pass with the opportunity of continuous renewal as long as the self-experiment is kept underway and the findings shared for scientific purposes._
 
 ## Procedure:
 
-**So, how does our cognitive experiment work?
-Let's give it a try...**
+**So, how does our cognitive experiment work?**
+
+**Let's give it a try...**
 
 _To begin with, choose a playlist which feels adequate for the moment you find yourself in:_
 
@@ -30,9 +31,12 @@ _To begin with, choose a playlist which feels adequate for the moment you find y
 _While being played, your sole task is to, if confronted with any problem or issue which can’t be presently solved, go to the app and click on the "save song" icon in order to keep a record of both the song and the time it was played._
 
 _Cognitive Sleep will automatically save these tracks for later reproduction._
+_Now, once you've gone to sleep, our app will take note of this and begin to re-play those previously saved tracks in chronological order._
 
-_Now, once you've gone to sleep, our app will begin to re-play those previously saved tracks in chronological order. 
-These tracks should now be linked with your previously confronted issues and, as such, should allow you to go through an efficient memory reactivation process for obtaining improved next-day problem solving abilities._
+### But, how does it know when to begin?
+
+_The app will detect the moment in which the user has entered into deep sleep/slow wave sleep, which is the ideal moment for conducting the experiment, whereby Delta waves are spotted in its internal EEG signal software.
+These tracks should be linked by now with your previously confronted issues and, as such, should allow you to go through an efficient memory reactivation process for obtaining improved next-day problem solving abilities._
 
 ## Added Features:
 In addition, our music is perfectly suited for "masking" unwanted outside noises, with the possibility of generating a harmonious atmosphere within the environment one's in.
