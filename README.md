@@ -42,4 +42,4 @@ The use of Cognitive Behavioral Therapy to increase ‘problem-solving’ skills
 
 If the user is willing to help improve the current scientific knowledge concerning the topics of sleep and cognitive therapy, the data collected can be donated to further increase the knowledge available and as such, allow for a more precise, tailored work to be done for each individual case.  
 
-## Contact Info: 
+### Contact Info: 
