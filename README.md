@@ -26,7 +26,7 @@ _While being played, your sole task is to, if confronted with any problem or iss
 _Cognitive Sleep will automatically save these tracks for later reproduction._
 
 _Now, once you've gone to sleep, our app will begin to re-play those previously saved tracks in chronological order. 
-These tracks should now be linked with your previously confronted issues and, as such, should allow you to go through an efficient memory reactivation process for attaining improved problem solving abilities._
+These tracks should now be linked with your previously confronted issues and, as such, should allow you to go through an efficient memory reactivation process for attaining improved next-day problem solving abilities._
 
 
 The use of Cognitive Behavioral Therapy to increase ‘problem-solving’ skills during sleep and waking hours is gaining widespread interest as research into this area is beginning to show its many potential benefits. 
