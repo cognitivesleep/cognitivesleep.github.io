@@ -17,9 +17,9 @@ _* Our only requirements are for the user to download our Cognitive Sleep app an
 
 ## Procedure:
 
-**So, how does our cognitive experiment work?**
+### So, how does our cognitive experiment work? 
 
-**Let's give it a try...**
+### Let's give it a try...
 
 _To begin with, choose a playlist which feels adequate for the moment you find yourself in:_
 
