@@ -5,22 +5,19 @@ Enhancing your problem solving skills through sound and music, while asleep.
 
 ## Objectives:
 
-Our **purpose** behind “Cognitive Sleep” is to promote self-experiment through each participants' own personal cognitive therapy, by exploring the opportunities which sleep, sound and music can have for us.
+Our **purpose** behind “Cognitive Sleep” is to promote self-experiment through each participants' own personal cognitive therapy, by exploring the opportunities which sleep, sound and music have for us.
 
 Our experiment is based on Sanders, Osburn, Paller and Beeman´s (2019) research article, based on how "targeted memory reactivation during sleep improves next-day problem solving". They conducted an experiment whereby participants were presented with puzzles, each arbitrarily linked with a different sound. While participants slept overnight, half of the sounds associated with the puzzles they hadn't solved yet were presented to them. The next morning, they discovered a 55% improvement regarding participants solving cued against uncued puzzles.
 
-Our experiment follows the same guidelines, with the difference that we provide purposefully composed soundscapes and music for the participant to reach a clearer, more fulfilling next-day memory reactivation process. We have created Spotify playlists specifically intended for moments of _work_ and _relax_, and plan on increasing the available selection soon. 
-
-## Location:
-
-We encourage participants to test our experiment in a safe, comfortable environment. This will allow for a more focused, relaxed mindset to be achieved prior and during the test.
+So, our experiment follows the same guidelines, with the difference that we provide purposefully composed soundscapes and music for the participant to have a richer, more fulfilling memory reactivation process. We have created Spotify playlists specifically intended for moments of _work_ and _relax_, and plan on increasing the available selection soon. 
 
 ## Materials:
+For this experiment you will need:
 
 - Laptop, Phone or Tablet
 - Speakers or Headphones
 - Spotify Premium Account
-* We require the user to have a Spotify Premium account, though if currently without one, there's no need to worry. As part of our incentive towards fellow potential participants, we are giving out a free 1-month Spotify Premium pass with the opportunity of continuous renewal as long as the self-experiment is kept underway and the findings shared for scientific purposes._
+* We require the user to have a Spotify Premium account, though if currently without one, there's no need to worry. As part of our incentive towards fellow potential participants, we are giving out a free 1-month Spotify Premium pass with the opportunity of continuous renewal as long as the self-experiment is kept underway and the findings shared with us for scientific purposes._
 
 ## Procedure:
 
@@ -33,14 +30,9 @@ _To begin with, choose a playlist which feels adequate for the moment you find y
 - **Work**
 - **Relax**
 
-_While being heard, your sole task is to, if confronted with any problem or issue during this time, click on the "save song" icon in order to keep a record of both the song and the time it was played._
+_While being heard, your sole task is to, if confronted with any problem or issue during this time, remember to click on "save song", in order to keep a record of both the song and the time it was played._
 
-_Cognitive Sleep will automatically save these tracks for later reproduction._
-_Now, once you've gone to sleep, our app will take note of this and begin to re-play those previously saved tracks in chronological order._
-
-### Now, how does it know when to begin?
-
-_The app will detect the moment in which the user has entered into deep sleep/slow wave sleep, which is the ideal moment for conducting the experiment, whereby Delta waves are spotted in its internal EEG signal software._
+_Now, once you've gone to sleep, remember to set your "saved songs" playlist to commence during your sleeping hours. It is important to keep it at a low-volume, since the idea is not to be woken up, but to simply be receiving the musical stimuli without one being conscious about it.
 
 _These tracks should be linked by now with your previously confronted issues and, as such, should allow you to go through an efficient memory reactivation process for obtaining improved next-day problem solving abilities._
 
