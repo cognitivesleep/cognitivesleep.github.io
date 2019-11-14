@@ -13,12 +13,12 @@ We propose an experiment based on Sanders, Osburn, Paller and Beeman´s (2019) r
 ### Targeted Memory-Reactivation Benefits:
 
 - Optimize and organize information
-- Strengthen and potentially transform memory 
-- Improved learning and problem-solving skills 
+- Strengthen your memory and
+- Improve your learning and problem-solving skills 
 
 ## Our Proposal:
 
-Our experiment follows those same guidelines, whereby we encourage you to listen to one of our selected playlists during the day, and then have it played back at night while asleep, in order to reactivate specific targeted memory for increased next-day problem solving abilities. We provide purposefully composed soundscapes and music for you to have a more pleasant experience, and recommend you to test it at home or wherever you feel most comfortable at. We have created Spotify playlists specifically intended for moments of _work_ and _relax_, and plan on increasing the available selection soon. 
+Our experiment follows the same guidelines, whereby we encourage you to listen to one of our selected playlists during the day, and then have it played back at night while asleep, in order to reactivate specific targeted memory for increased next-day problem solving abilities. We provide purposefully composed soundscapes and music for you to have a more pleasant experience, and recommend you to test it at home or wherever you feel most comfortable at. We have created Spotify playlists specifically intended for moments of _work_ and _relax_, and plan on increasing the available selection soon. 
 
 ## Materials:
 For this experiment, you will need:
