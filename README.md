@@ -35,10 +35,7 @@ To begin with, you must choose a playlist which feels adequate for the moment yo
 
 While being heard, your sole task is to, if confronted with any problem or issue during this time, remember to click on the "save song" icon, in order to keep a record of both the song and the time it was played.
 
-Now, before you've gone to sleep, it is important to set your "saved songs" playlist to start playback while you're, ideally, in deep sleep. 
-
-### Why is this? 
-Because subsequently delivering the cues again during slow-wave sleep (SWS) produces better learning compared with control conditions (Rasch, Büchel, Gais, & Born, 2007). It is important to set the volume at a low-level, since the idea is not to be woken up, but to simply receive the musical stimuli while asleep.
+Now, before you've gone to sleep, it is important to set your "saved songs" playlist to start playback within the next few hours, by which time you should be asleep. It is important to set the volume at a low-level, since the idea is not to be woken up, but to simply receive the musical stimuli while asleep.
 
 These tracks should be linked by now with your previously confronted issues and, as such, should allow you to go through an efficient memory reactivation process for obtaining improved next-day problem solving abilities.
 
