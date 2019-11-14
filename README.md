@@ -1,7 +1,7 @@
 # Cognitive Sleep
 
 
-Enhancing problem solving abilities through sound and music, while asleep.
+Enhance your problem solving abilities through sound and music, while asleep.
 
 ## Objectives:
 
