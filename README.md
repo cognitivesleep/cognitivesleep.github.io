@@ -55,6 +55,6 @@ It is important to set the volume at a low-level, since the idea is not to be wo
 
 ## Bonus:
 
-In addition, our playlists are perfectly suitable for "blocking" unwanted outside noises, as well as having the possibility of fomenting a harmonious atmosphere within the environment you're in.
+In addition, our playlists are perfectly suitable for "masking" unwanted outside noises, as well as having the possibility of fomenting a harmonious atmosphere within the environment you're in.
 
 ### Contact Info: 
