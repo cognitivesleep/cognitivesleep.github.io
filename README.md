@@ -17,7 +17,7 @@ For this experiment you will need:
 - Laptop, Phone or Tablet
 - Speakers or Headphones
 - Spotify Premium Account
-* We require the user to have a Spotify Premium account, though if currently without one, there's no need to worry. As part of our incentive towards fellow potential participants, we are giving out a free 1-month Spotify Premium pass with the opportunity of continuous renewal as long as the self-experiment is kept underway and the findings shared with us for scientific purposes._
+_*We require the user to have a Spotify Premium account, though if currently without one, there's no need to worry. As part of our incentive towards fellow potential participants, we are giving out a free 1-month Spotify Premium pass with the opportunity of continuous renewal as long as the self-experiment is kept underway and the findings shared with us for scientific purposes._
 
 ## Procedure:
 
