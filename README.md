@@ -27,34 +27,34 @@ For this experiment, you will need:
 - Speakers or Headphones
 - And a Spotify Premium Account
 
-_*We require participants to have a Spotify Premium account, though if you currently don't have one, there's no need to worry. As part of our incentive towards fellow participants, we are giving out a free 1-month Spotify Premium pass with the opportunity of continuous renewal as long as the self-experiment is kept underway and the findings shared. This is simply done in order to further increase the current scientific knowledge available concerning sound and cognitive therapy)._
+_*We require participants to have a Spotify Premium account, though if you currently don't have one, there's no need to worry. As part of our incentive towards fellow participants, we are giving out a free 1-month Spotify Premium pass with the opportunity of continuous renewal as long as the self-experiment is kept underway and the findings shared. This is simply done in order to further increase the current scientific knowledge available concerning sound and cognitive therapy._
 
 
 ## Procedure:
 
-### So, how does our cognitive experiment work? 
+### So, how does our experiment work? 
 
-To begin with, you must choose a playlist which feels adequate for the moment you find yourself in:
+To start off, choose a playlist which feels adequate for the moment you find yourself in:
 
 ### Playlists:
 
 - **Work**
 - **Relax**
 
-While being heard, your sole task is to, if confronted with any problem or issue during this time, remember to click on the "save song" icon, in order to keep a record of both the song and the time it was played.
+While hearing it, your sole task is to, if confronted with any problem or issue during this time, go to your phone, tablet, etc and click on the "add to playlist" icon, in order to keep a record of both the song and the time it was played at.
 
-Now, before you've gone to sleep, it is important to set your "saved songs" playlist to start playback within the next 2/3 hours, by which time you should be ideally in deep slow-wave sleep (SWS). 
+Now, before you've gone to sleep, it is important to set your recently made playlist to start playback within the next 2 to 3 hours, by which time you should ideally be in deep slow-wave sleep (SWS). 
 
 ### Why is this stage recommended?
 
-Subsequently delivering the cues again during SWS produces better learning compared with control conditions (Rasch, Büchel, Gais, & Born, 2007). Prior TMR studies demonstrate memory strengthening and reorganization using cues presented during SWS (Hu, Cheng, Chiu, & Paller, 2019).
+Subsequently delivering cues during SWS produces better learning compared with control conditions (Rasch, Büchel, Gais, & Born, 2007). Besides, prior TMR studies demonstrated memory strengthening and reorganization using cues presented during SWS (Hu, Cheng, Chiu, & Paller, 2019). Although this is said, there are many variables involved in reaching and measuring this stage of sleep. For this reason, we simply inform the participants about it, but our intention is not to identify which sleep stage is most important but rather to determine generally whether sleep can be more strongly linked with problem solving.
 
 ### Final things to consider:
 
-It is important to set the volume at a low-level, since the idea is not to be woken up, but to simply receive the musical stimuli while asleep. These tracks should be linked by now with your previously confronted issues and, as such, should allow you to go through an efficient memory reactivation process for obtaining improved next-day problem solving abilities.
+It is important to set the volume at a low-level, since the idea is not to be woken up, but to simply receive the musical stimuli while asleep. These tracks should be linked by now with your previously confronted issues and, as such, should allow you to go through an efficient memory reactivation process for obtaining improved next-day problem solving abilities. 
 
 ## Bonus:
 
-In addition, our playlists are perfectly suitable for using as "blockers" of unwanted outside noises, as well as having the possibility of fomenting a harmonious atmosphere within the environment one's in.
+In addition, our playlists are perfectly suitable for "blocking" unwanted outside noises, as well as having the possibility of fomenting a harmonious atmosphere within the environment you're in.
 
 ### Contact Info: 
