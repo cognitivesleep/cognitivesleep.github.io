@@ -10,7 +10,7 @@ Our main objective behind “Cognitive Sleep” is to allow you to undergo your 
 
 Our experiment is based on Sanders, Osburn, Paller and Beeman´s (2019) research article, based on how "targeted memory reactivation during sleep improves next-day problem solving". They conducted an experiment whereby participants were presented with puzzles, each arbitrarily linked with a different sound. While participants slept overnight, half of the sounds associated with the puzzles they hadn't solved yet were presented to them. The next morning, they discovered a 55% improvement regarding participants solving cued against uncued puzzles.
 
-Our experiment follows those same guidelines, whereby participants are encouraged to listen to one of our selected playlists during the day, and then hear it back at night while asleep, in order to reactivate specific targeted memory. In our case, we provide purposefully composed soundscapes and music for the participant to have a richer, more fulfilling process. We have created Spotify playlists specifically intended for moments of _work_ and _relax_, and plan on increasing the available selection soon. 
+Our experiment follows those same guidelines, whereby participants are encouraged to listen to one of our selected playlists during the day, and then hear it back at night while asleep, in order to reactivate specific targeted memory. In our case, we provide purposefully composed soundscapes and music for the participant to have a richer, more fulfilling experience. We have created Spotify playlists specifically intended for moments of _work_ and _relax_, and plan on increasing the available selection soon. 
 
 ## Materials:
 For this experiment you will need:
@@ -19,7 +19,7 @@ For this experiment you will need:
 - Speakers or Headphones
 - And a Spotify Premium Account
 
-_*We require participants to have a Spotify Premium account, though if you're currently without one, there's no need to worry. As part of our incentive towards fellow porticipants, we are giving out a free 1-month Spotify Premium pass with the opportunity of continuous renewal as long as the self-experiment is kept underway and the findings shared with us. This is done in order to further increase the current scientific knowledge available surrounding the topic at hand)._
+_*We require participants to have a Spotify Premium account, though if you currently don't have one, there's no need to worry. As part of our incentive towards fellow porticipants, we are giving out a free 1-month Spotify Premium pass with the opportunity of continuous renewal as long as the self-experiment is kept underway and the findings shared with us. This is done in order to further increase the current scientific knowledge available surrounding the topic at hand)._
 
 ## Procedure:
 
