@@ -10,10 +10,13 @@ Our main objective behind Cognitive Sleep is to allow you to undergo your own pe
 
 Our experiment is based on Sanders, Osburn, Paller and Beeman´s (2019) research article, based on how "targeted memory reactivation during sleep improves next-day problem solving". They conducted an experiment whereby participants were presented with puzzles, each arbitrarily linked with a different sound. While participants slept overnight, half of the sounds associated with the puzzles they hadn't solved yet were presented to them. The next morning, they discovered a 55% improvement regarding participants solving cued against uncued puzzles.
 
-## Targeted Memory-Reactivation Benefits?
+### Targeted Memory-Reactivation Benefits:
+
 -
 -
 -
+
+## Our Proposal:
 
 Our experiment follows those same guidelines, whereby we encourage you to listen to one of our selected playlists during the day, and then have it played back at night while asleep, in order to reactivate specific targeted memory for increased next-day problem solving abilities. We provide purposefully composed soundscapes and music for you to have a more pleasant experience, and recommend you to test it at home or wherever you feel most comfortable at. We have created Spotify playlists specifically intended for moments of _work_ and _relax_, and plan on increasing the available selection soon. 
 
