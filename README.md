@@ -1,6 +1,6 @@
 # Cognitive Sleep
 
-How would you feel about increasing your problem solving skills through sound and music, while asleep?
+Increase your problem solving skills through sound and music, while asleep
 
 ## Objectives:
 
