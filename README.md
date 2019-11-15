@@ -50,15 +50,13 @@ Now, before you've gone to sleep, it is important to set your phone or laptop on
 
 ### Why is the SWS phase recommended?
 
-Subsequently delivering cues during SWS produces better learning compared with control conditions (Rasch, Büchel, Gais, & Born, 2007). In addition, prior TMR studies demonstrated memory strengthening and reorganization using cues presented during SWS (Hu, Cheng, Chiu, & Paller, 2019). 
-
-Although this is said, there are many variables involved in reaching and measuring this stage of sleep. For this reason, we simply inform the participants about it, but our intention is not to identify which sleep stage is most important but rather to determine generally whether sleep can be more strongly linked with problem solving or not.
+_Subsequently delivering cues during SWS produces better learning compared with control conditions (Rasch, Büchel, Gais, & Born, 2007). In addition, prior TMR studies demonstrated memory strengthening and reorganization using cues presented during SWS (Hu, Cheng, Chiu, & Paller, 2019)._ 
 
 It is important to set the volume at a low-level, since the idea is not to be woken up, but to simply receive the musical stimuli while asleep. The playlist will commence with our "pink noise" track, in order to reduce the likelihood that the other tracks will provoke arousal. If, by any chance, you are woken up by our tracks, simply press Stop in order to pause all incoming sounds, and the SMCS will reactivate the playlist once it detects you've entered SWS sleep stage again.
 
-### Our Hopes:
+### Our Predictions:
 
-We predict that these tracks should be linked by now with your previously confronted issues and, as such, should allow you to go through an efficient memory reactivation process for obtaining improved next-day problem solving abilities. 
+We hope that these tracks are linked by now with your previously confronted issues and, as such, should allow you to go through an efficient memory reactivation process for obtaining improved next-day problem solving abilities. 
 
 ## Bonus:
 
