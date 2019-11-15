@@ -20,7 +20,7 @@ While participants slept overnight, half of the sounds associated with the puzzl
 
 ## Our Proposal:
 
-Our experiment follows these same guidelines, whereby we encourage you to listen to our selected playlists during the day and then have you choose those tracks which you heard during a certain "puzzling" moment, and have them played back to you at night while asleep. This is done in order to reactivate those specific moments of your past day which you feel need further working on.
+Our experiment follows these same guidelines, whereby we encourage you to listen to our selected playlists during the day and then have you choose those tracks which you heard during a certain "puzzling" moment, and have them played back at night while you're asleep. This is done in order to reactivate those specific moments of your day which you feel need further working on.
 
 We provide purposefully composed soundscapes and music for you to have a more rewarding experience, and recommend you test this experiment at home or wherever it is that you feel most comfortable at. We have created Spotify playlists specifically intended for moments of _work_ and _relax_, and plan on increasing the available selection soon.
 
