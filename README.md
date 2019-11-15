@@ -4,9 +4,7 @@ Increase your problem solving abilities through sound and music, while asleep!
 
 ## Objectives:
 
-Our main objective behind Cognitive Sleep is to allow you to undergo your own personal cognitive therapy, through self-experimenting and testing the possibilities which sleep, sound and music have to offer.
-
-As such, we intend to give you the necessary tools and information available in order to allow you to undergo a targeted-memory reactivation process for improving your problem solving abilities.
+Our main objective behind Cognitive Sleep is to allow you to undergo your own personal cognitive therapy, through self-experimenting and testing the possibilities which sleep, sound and music have to offer. As such, we intend to give you the necessary tools and information available in order to allow you to undergo your personal targeted-memory reactivation process for improving your problem solving abilities.
 
 ### Targeted Memory-Reactivation Benefits:
 
@@ -16,15 +14,15 @@ As such, we intend to give you the necessary tools and information available in 
 
 ## Our Inspiration: 
 
-We were influenced by Sanders, Osburn, Paller and Beeman´s (2019) research article, called "targeted memory reactivation during sleep improves next-day problem solving". Simply put, they conducted an experiment whereby participants were presented with puzzles, each arbitrarily linked with a different sound. During the course of the day, participants had to try and solve the puzzles they were presented with. Once they had a total of 6 unsolved puzzles each, the research conductors stopped activity and kept a record of them. While participants slept overnight, half of the sounds associated with the puzzles they hadn't solved yet were presented to them, as such making them go through targeted sound reinforcement memory reactivation during their sleep. The next morning, they discovered there was a 55% improvement regarding participants solving cued (with sound reinforcement) against uncued puzzles, which means that sound reinforcement during sleep did have a positive effect on their next-day puzzle solving abilities.
+We were influenced by Sanders, Osburn, Paller and Beeman´s (2019) research article, called "targeted memory reactivation during sleep improves next-day problem solving". Simply put, they conducted an experiment whereby participants were presented with puzzles, each arbitrarily linked with a different sound. During the course of the day, participants had to try and solve the puzzles they were presented with. Once they had a total of 6 unsolved puzzles each, the research conductors stopped activity and kept a record of them. 
+
+While participants slept overnight, half of the sounds associated with the puzzles they hadn't solved yet were presented to them, as such making them go through targeted sound reinforcement memory reactivation during their sleep. The next morning, they discovered there was a 55% improvement regarding participants solving cued (with sound reinforcement) against uncued puzzles, which means that sound reinforcement during sleep did have a positive effect on their next-day puzzle solving abilities.
 
 ## Our Proposal:
 
-Our experiment follows these same guidelines, whereby we encourage you to listen to our selected playlists during the day, and then have certain tracks played back at night while asleep, in order to reactivate those specific moments of your past day which you feel need working on and, as such, increase your next-day problem solving abilities. 
+Our experiment follows these same guidelines, whereby we encourage you to listen to our selected playlists during the day and then have certain tracks played back at night while asleep, in order to reactivate those specific moments of your past day which you feel need working on.
 
-We provide purposefully composed soundscapes and music for you to have a pleasant experience, and recommend you to test this experiment at home or wherever it is that you feel most comfortable at. 
-
-We have created Spotify playlists specifically intended for moments of _work_ and _relax_, and plan on increasing the available selection soon. 
+We provide purposefully composed soundscapes and music for you to have a pleasant experience, and recommend you to test this experiment at home or wherever it is that you feel most comfortable at. We have created Spotify playlists specifically intended for moments of _work_ and _relax_, and plan on increasing the available selection soon.
 
 ## Materials:
 For this experiment, you will need:
@@ -34,7 +32,6 @@ For this experiment, you will need:
 - And a Spotify Premium Account*, in order to reproduce our playlists.
 
 _*If you currently don't have one, there's no need to worry. As part of our incentive towards fellow participants, we are giving out a free 1-month Spotify Premium pass with the opportunity of continuous renewal as long as the self-experiment is kept underway and the findings shared. This is simply done in order to further increase the current scientific knowledge available concerning sound and cognitive therapy._
-
 
 ## Procedure:
 
