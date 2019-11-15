@@ -28,7 +28,7 @@ We have created Spotify playlists specifically intended for moments of _work_ an
 For this experiment, you will need:
 
 - A Laptop, Phone or Tablet;
-- A Sleep Monitoring and Cuing System (SMCS), provided by us; 
+- A Sleep Monitoring and Cueing System (SMCS), provided by us; 
 - And a Spotify Premium Account*, in order to reproduce our playlists.
 
 _*If you currently don't have one, there's no need to worry. As part of our incentive towards fellow participants, we are giving out a free 1-month Spotify Premium pass with the opportunity of continuous renewal as long as the self-experiment is kept underway and the findings shared. This is simply done in order to further increase the current scientific knowledge available concerning sound and cognitive therapy._
@@ -47,7 +47,7 @@ To start off, choose a playlist which feels adequate for the moment you find you
 
 Upon hearing it, your sole task is to, if confronted with any problem or issue during this time, go to your playback device and click on the "add to playlist" icon, in order to keep a record of both the song and the time it was played at.
 
-Now, before you've gone to sleep, it is important to set your phone or laptop on a level surface near your bed, which in turn should be connected to the SMCS. This will read your brain activity during sleep to determine your sleep stage, and it will automatically begin playing your saved playlist once it detects you´ve entered slow-wave sleep (SWS).
+Now, before you've gone to sleep, it is important to set your phone or laptop on a level surface near your bed, which in turn should be connected to the SMCS. This will read your brain activity during sleep to determine your sleep stage, and it will automatically begin playing your saved playlist once it detects you've entered slow-wave sleep (SWS).
 
 ### Why is the SWS phase recommended?
 
