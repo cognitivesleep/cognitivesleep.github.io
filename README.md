@@ -4,7 +4,9 @@ Increase your problem solving abilities through sound and music, while asleep!
 
 ## Objectives:
 
-Our main objective behind Cognitive Sleep is to allow you to undergo your own personal cognitive therapy, through self-experimenting and testing the possibilities which sleep, sound and music have to offer. As such, we intend to give you the necessary tools and information available in order to allow you to undergo a targeted-memory reactivation process for improving your problem solving skills.
+Our main objective behind Cognitive Sleep is to allow you to undergo your own personal cognitive therapy, through self-experimenting and testing the possibilities which sleep, sound and music have to offer.
+
+As such, we intend to give you the necessary tools and information available in order to allow you to undergo a targeted-memory reactivation process for improving your problem solving abilities.
 
 ### Targeted Memory-Reactivation Benefits:
 
@@ -14,11 +16,11 @@ Our main objective behind Cognitive Sleep is to allow you to undergo your own pe
 
 ## Our Inspiration: 
 
-We were influenced by Sanders, Osburn, Paller and Beeman´s (2019) research article, called "targeted memory reactivation during sleep improves next-day problem solving". Simply put, they conducted an experiment whereby participants were presented with puzzles, each arbitrarily linked with a different sound. During the course of the day, participants had to try and solve the puzzles they were presented with. Once they had a total of 6 unsolved puzzles each, the research conductors stopped activity and kept a record of them. While participants slept overnight, half of the sounds associated with the puzzles they hadn't solved yet were presented to them, as such making them go through sound reinforcement during their sleep. The next morning, they discovered there was a 55% improvement regarding participants solving cued (with sound reinforcement) against uncued puzzles.
+We were influenced by Sanders, Osburn, Paller and Beeman´s (2019) research article, called "targeted memory reactivation during sleep improves next-day problem solving". Simply put, they conducted an experiment whereby participants were presented with puzzles, each arbitrarily linked with a different sound. During the course of the day, participants had to try and solve the puzzles they were presented with. Once they had a total of 6 unsolved puzzles each, the research conductors stopped activity and kept a record of them. While participants slept overnight, half of the sounds associated with the puzzles they hadn't solved yet were presented to them, as such making them go through targeted sound reinforcement memory reactivation during their sleep. The next morning, they discovered there was a 55% improvement regarding participants solving cued (with sound reinforcement) against uncued puzzles, which means that sound reinforcement during sleep did have a positive effect on their next-day puzzle solving abilities.
 
 ## Our Proposal:
 
-Our experiment follows these same guidelines, whereby we encourage you to listen to one of our selected playlists during the day, and then have it played back at night while asleep, in order to reactivate those specific targeted memory moments of your past day and as such, increase your next-day problem solving abilities. 
+Our experiment follows these same guidelines, whereby we encourage you to listen to our selected playlists during the day, and then have certain tracks played back at night while asleep, in order to reactivate those specific moments of your past day which you feel need working on and, as such, increase your next-day problem solving abilities. 
 
 We provide purposefully composed soundscapes and music for you to have a pleasant experience, and recommend you to test this experiment at home or wherever it is that you feel most comfortable at. 
 
