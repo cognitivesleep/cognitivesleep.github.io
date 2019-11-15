@@ -24,6 +24,8 @@ Our experiment follows these same guidelines, whereby we encourage you to listen
 
 We provide purposefully composed soundscapes and music for you to have a more rewarding experience, and recommend you test this experiment at home or wherever it is that you feel most comfortable at. We have created Spotify playlists specifically intended for moments of _work_ and _relax_, and plan on increasing the available selection soon.
 
+Our experiment is based on citizen science fundamentals, whereby we encourage public participation and collaboration in our research, and the information gathered is then utilized for further increasing the current scientific knowledge available.
+
 ## Materials:
 For this experiment, you will need:
 
@@ -56,8 +58,7 @@ Furthermore, it is important to set the volume at a low-level, since the idea is
 
 ## Our Predictions:
 
-We hope that these tracks are linked by now with your previously confronted issues and, as such, should allow you to go through an efficient memory reactivation process for obtaining improved next-day problem solving abilities. 
-Our experiment is based on citizen science fundamentals, whereby we encourage public participation and collaboration in our research, and the information gathered is then utilized for further increasing the current scientific knowledge available.
+We hope that through memory reactivation during sleep, you are able to restructure your conception of a "puzzle" or problem, considering that sleep can be beneficial both for producing enduring memories and for altering stored information as well (Lewis et al., 2018). We predict that these tracks are linked by now with your previously confronted issues and, as such, should allow you to go through an efficient memory reactivation process for obtaining improved next-day problem solving abilities.
 
 ### Bonus:
 
