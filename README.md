@@ -41,7 +41,7 @@ To start off, choose a playlist which feels adequate for the moment you find you
 - **Work**
 - **Relax**
 
-While hearing it, your sole task is to, if confronted with any problem or issue during this time, go to your phone, tablet, etc and click on the "add to playlist" icon, in order to keep a record of both the song and the time it was played at.
+Upon hearing it, your sole task is to, if confronted with any problem or issue during this time, go to your phone, tablet, etc and click on the "add to playlist" icon, in order to keep a record of both the song and the time it was played at.
 
 Now, before you've gone to sleep, it is important to set your recently made playlist to start playback within the next 2 to 3 hours, by which time you should ideally be in deep slow-wave sleep (SWS). 
 
@@ -56,5 +56,7 @@ It is important to set the volume at a low-level, since the idea is not to be wo
 ## Bonus:
 
 In addition, our playlists are perfectly suitable for "masking" unwanted outside noises, as well as having the possibility of fomenting a harmonious atmosphere within the environment you're in.
+
+Our experiment is based on citizen science fundamentals, whereby the practice of public participation and collaboration in scientific research are utilized to increase the current scientific knowledge available. As such, this allows a more precise, accurate understanding of the topic at hand.
 
 ### Contact Info: 
