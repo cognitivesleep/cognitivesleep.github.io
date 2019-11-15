@@ -16,7 +16,7 @@ Our main objective behind Cognitive Sleep is to allow you to undergo your own pe
 
 This experiment is based on Sanders, Osburn, Paller and Beeman´s (2019) research article, called "targeted memory reactivation during sleep improves next-day problem solving". Simply put, they conducted an experiment whereby participants were presented with puzzles, each arbitrarily linked with a different sound. During the course of the day, participants had to try and solve the puzzles they were presented with. Once they had a total of 6 unsolved puzzles each, the research conductors stopped the activity and kept a record of them. 
 
-While participants slept overnight, half of the sounds associated with the puzzles they hadn't solved yet were presented to them, as such making them go through targeted sound reinforcement memory reactivation during their sleep. The next morning, they discovered there was a 55% improvement regarding participants solving cued (with sound reinforcement) against uncued puzzles, which means that sound reinforcement during sleep did have a positive effect on their next-day problem solving abilities.
+While participants slept overnight, half of the sounds associated with the puzzles they hadn't solved yet were presented to them, as such making them go through targeted sound reinforcement memory reactivation during their sleep. The next morning, they discovered there was a 55% improvement regarding participants solving cued (with sound reinforcement) against uncued puzzles, meaning that sound reinforcement during sleep did have a positive effect on their next-day problem solving abilities.
 
 ## Our Proposal:
 
