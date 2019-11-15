@@ -20,7 +20,7 @@ While participants slept overnight, half of the sounds associated with the puzzl
 
 ## Our Proposal:
 
-Our experiment follows these same guidelines, whereby we encourage you to listen to our selected playlists during the day and then have certain tracks played back at night while asleep, in order to reactivate those specific moments of your past day which you feel need working on.
+Our experiment follows these same guidelines, whereby we encourage you to listen to our selected playlists during the day and then have you choose those tracks which you heard during a certain problematic moment, and have them played back at night while asleep. This is done in order to reactivate those specific moments of your past day which you feel need further work on.
 
 We provide purposefully composed soundscapes and music for you to have a pleasant experience, and recommend you to test this experiment at home or wherever it is that you feel most comfortable at. We have created Spotify playlists specifically intended for moments of _work_ and _relax_, and plan on increasing the available selection soon.
 
@@ -29,9 +29,9 @@ For this experiment, you will need:
 
 - A Laptop, Phone or Tablet;
 - A Sleep Monitoring and Cueing System (SMCS), provided by us; 
-- And a Spotify Premium Account*, in order to reproduce our playlists.
+- And a Spotify Premium Account*, which may also be provided by us. 
 
-_*If you currently don't have one, there's no need to worry. As part of our incentive towards fellow participants, we are giving out a free 1-month Spotify Premium pass with the opportunity of continuous renewal as long as the self-experiment is kept underway and the findings shared. This is simply done in order to further increase the current scientific knowledge available concerning sound and cognitive therapy._
+_*If you currently don't have a Spotify Premium Account, there's no need to worry. As part of our incentive towards fellow participants, we are giving out a free 1-month Spotify Premium pass with the opportunity of continuous renewal as long as the self-experiment is kept underway and the findings shared. This is simply done in order to further increase the current scientific knowledge available concerning sound and cognitive therapy._
 
 ## Procedure:
 
@@ -52,7 +52,7 @@ Now, before you've gone to sleep, it is important to set your phone or laptop on
 
 _Subsequently delivering cues during SWS produces better learning compared with control conditions (Rasch, Büchel, Gais, & Born, 2007). In addition, prior TMR studies demonstrated memory strengthening and reorganization using cues presented during SWS (Hu, Cheng, Chiu, & Paller, 2019)._ 
 
-It is important to set the volume at a low-level, since the idea is not to be woken up, but to simply receive the musical stimuli while asleep. The playlist will commence with our "pink noise" track, in order to reduce the likelihood that the other tracks will provoke arousal. If, by any chance, you are woken up by our tracks, simply press Stop in order to pause all incoming sounds, and the SMCS will reactivate the playlist once it detects you've entered SWS sleep stage again.
+Furthermore, it is important to set the volume at a low-level, since the idea is not to be woken up, but to simply receive the musical stimuli while asleep. The playlist will commence with our "pink noise" track, in order to reduce the likelihood that the other tracks will provoke arousal. If, by any chance, you are woken up by our tracks, simply press "Stop" in order to pause all incoming sounds, and the SMCS will reactivate the playlist once it detects you've entered SWS again.
 
 ### Our Predictions:
 
@@ -62,6 +62,6 @@ We hope that these tracks are linked by now with your previously confronted issu
 
 In addition, our playlists are perfectly suitable for "masking" unwanted outside noises, as well as having the possibility of fomenting a harmonious atmosphere within the environment you're in.
 
-Our experiment is based on citizen science fundamentals, whereby the practice of public participation and collaboration in scientific research is utilized to further increase the current scientific knowledge available. As such, this allows for a more precise, accurate understanding of the topic at hand.
+Our experiment is based on citizen science fundamentals, whereby we encourage public participation and collaboration in our research, which is then utilized to further increase the current scientific knowledge available.
 
 ### Contact Info: 
