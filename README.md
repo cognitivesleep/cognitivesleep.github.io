@@ -1,10 +1,10 @@
 # Cognitive Sleep
 
-Increase your problem solving abilities through sound and music, while asleep!
+Increase your problem solving skills through sound and music, while asleep!
 
 ## Objectives:
 
-Our main objective behind Cognitive Sleep is to allow you to undergo your own personal cognitive therapy, through self-experimenting and testing the possibilities which sleep, sound and music have to offer. As such, we intend to give you the necessary tools and information available in order to allow you to undergo your personal targeted-memory reactivation process for improving your problem solving abilities.
+Our main objective behind Cognitive Sleep is to allow you to undergo your own personal cognitive therapy, through self-experimenting and testing the possibilities which sleep, sound and music have to offer. As such, we intend to give you the necessary tools and information available in order to allow you to undergo your personal targeted-memory reactivation process for improving your next-day problem solving abilities.
 
 ### Targeted Memory-Reactivation Benefits:
 
