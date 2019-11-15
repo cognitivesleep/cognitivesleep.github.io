@@ -54,14 +54,13 @@ _Subsequently delivering cues during SWS produces better learning compared with 
 
 Furthermore, it is important to set the volume at a low-level, since the idea is not to be woken up, but to simply receive the musical stimuli while asleep. The playlist will commence with our "pink noise" track, in order to reduce the likelihood that the other tracks will provoke arousal. If, by any chance, you are woken up by our tracks, simply press "Stop" in order to pause all incoming sounds, and the SMCS will reactivate the playlist once it detects you've entered SWS again.
 
-### Our Predictions:
+## Our Predictions:
 
 We hope that these tracks are linked by now with your previously confronted issues and, as such, should allow you to go through an efficient memory reactivation process for obtaining improved next-day problem solving abilities. 
+Our experiment is based on citizen science fundamentals, whereby we encourage public participation and collaboration in our research, and the information gathered is then utilized for further increasing the current scientific knowledge available.
 
-## Bonus:
+### Bonus:
 
 In addition, our playlists are perfectly suitable for "masking" unwanted outside noises, as well as having the possibility of fomenting a harmonious atmosphere within the environment you're in.
-
-Our experiment is based on citizen science fundamentals, whereby we encourage public participation and collaboration in our research, which is then utilized to further increase the current scientific knowledge available.
 
 ### Contact Info: 
