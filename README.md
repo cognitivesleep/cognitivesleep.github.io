@@ -14,8 +14,8 @@ Our main objective behind Cognitive Sleep is to allow you to undergo your own pe
 
 ## Our Inspiration: 
 
-Our project is inspired by Sanders, Osburn, Paller and Beeman’s (2019) experimental findings regarding ways of improving next-day problem solving by targeting memory reactivation during sleep by means of sound. In said experiment, 60 participants were presented with numerous puzzles, each of which was arbitrarily linked to a different sound. During the course of the day, participants were asked to solve these puzzles until they had reached a total of 6 unresolved ones, at which point they were asked to stop.
-While participants slept overnight, half of the sounds associated with the puzzles they hadn’t solved yet were played back to them. When they then resumed their puzzle-solving activity the following day, participants solved 31.7% of cued puzzles, compared with 20.5% of uncued puzzles (a 55% improvement), thereby supporting the hypothesis that sound reinforcement during sleep had a positive effect on their next-day problem solving abilities.
+Our project is inspired by Sanders, Osburn, Paller and Beeman’s (2019) experimental findings regarding ways of improving next-day problem solving by targeting memory reactivation during sleep by means of sound. In said experiment, 60 participants were presented with numerous puzzles, each of which were arbitrarily linked to a different sound. During the course of the day, participants were asked to solve these puzzles until they had reached a total of 6 unresolved ones, at which point they were asked to stop.
+While participants slept overnight, 3 of the sounds associated with the puzzles they hadn’t solved yet were played back to them. When they then resumed their puzzle-solving activity the following day, participants solved 31.7% of cued puzzles, compared with 20.5% of uncued puzzles (a 55% improvement), thereby supporting the hypothesis that sound reinforcement during sleep had a positive effect on their next-day problem solving abilities.
 
 ## Our Proposal:
 
@@ -45,22 +45,22 @@ To start off, choose a playlist which feels adequate for the moment you find you
 - **Work**
 - **Relax**
 
-Upon hearing it, your sole task is to, if confronted with any problem or issue during this time, go to your playback device and click on the "add to playlist" icon, in order to keep a record of both the song and the time it was played at.
+Upon hearing it, your sole task is to, if confronted with any problem or issue during this time, go to your playback device and click on the "add to playlist" icon, in order to keep a record of both the song and the time it was played.
 
-Now, before you've gone to sleep, it is important to set your phone or laptop on a level surface near your bed, which in turn should be connected to the SMCS. This will read your brain activity during sleep to determine your sleep stage, and it will automatically begin playing your saved playlist once it detects you've entered slow-wave sleep (SWS).
+Now, before you've gone to sleep, it is important to set your phone or laptop on a level surface near your bed, and have it connected to the SMCS. This will read your brain activity during sleep to determine your sleep stage, and it will automatically begin playing your saved playlist once it detects you've entered slow-wave sleep (SWS).
 
 ### Why is the SWS phase recommended?
 
 _Subsequently delivering cues during SWS produces better learning compared with control conditions (Rasch, Büchel, Gais, & Born, 2007). In addition, prior TMR studies demonstrated memory strengthening and reorganization using cues presented during SWS (Hu, Cheng, Chiu, & Paller, 2019)._ 
 
-Furthermore, it is important to set the volume at a low-level, since the idea is not to be woken up, but to simply receive the musical stimuli while asleep. The playlist will commence with our "pink noise" track, in order to reduce the likelihood that the other tracks will provoke arousal. If, by any chance, you are woken up by our tracks, simply press "Stop" in order to pause all incoming sounds, and the SMCS will reactivate the playlist once it detects you've entered SWS again.
+It is important to set the volume at a low-level, since the idea is not to be woken up, but to simply receive the musical stimuli while asleep. The playlist will commence with our "pink noise" track, in order to reduce the likelihood that the other tracks will provoke arousal. If, by any chance, you are woken up by our tracks, simply press "Stop" in order to pause all incoming sounds, and the SMCS will reactivate the playlist once it detects you've entered SWS again.
 
 ## Our Predictions:
 
-We hope that through memory reactivation during sleep, you are able to restructure your conception of a "puzzle" or problem, considering that sleep can be beneficial both for producing enduring memories and for altering stored information as well (Lewis et al., 2018). We predict that these tracks are linked by now with your previously confronted issues and, as such, should allow you to go through an efficient memory reactivation process for obtaining improved next-day problem solving abilities.
+We hope that through memory reactivation during sleep, you will be able to restructure your conception of a "puzzle" or problem, considering that sleep can be beneficial both for producing enduring memories and for altering stored information (Lewis et al., 2018). We predict that the tracks will be linked by now with your previously confronted issues and, as such, should allow you to go through an efficient memory reactivation process for obtaining improved next-day problem solving abilities.
 
 ### Bonus:
 
-In addition, our playlists are perfectly suitable for "masking" unwanted outside noises, as well as having the possibility of fomenting a harmonious atmosphere within the environment you're in.
+In addition, our playlists are well-suited for "masking" unwanted outside noises, as well as having the possibility of fostering a harmonious atmosphere within the environment you're in.
 
 ### Contact Info: 
