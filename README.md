@@ -63,4 +63,18 @@ We hope that through memory reactivation during sleep, you will be able to restr
 
 In addition, our playlists are well-suited for "masking" unwanted outside noises, as well as having the possibility of fostering a harmonious atmosphere within the environment you're in.
 
+## FAQs:
+
+- What are the steps to follow before starting the experiment?
+- Is the experiment free?
+- Where can I download the CS app?
+- Do I need to share my personal details?
+- How can I contact Cognitive Sleep?
+- Do you have a physical store as well?
+- What is an SMCS exactly?
+- What does Open Source mean?
+- Can this experiment have any potential side-effects?
+- What if I decide to quit the experiment? 
+
+
 ### Contact Info: 
