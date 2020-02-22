@@ -1,10 +1,6 @@
-# Cognitive Sleep
-
-Increase your problem solving skills through sound and music, while asleep!
-
 ## Objectives:
 
-Our main objective behind Cognitive Sleep is to allow you to undergo your own personal cognitive therapy, through self-experimenting and testing the possibilities which sleep, sound and music have to offer. As such, we intend to give you the necessary tools and information available in order to allow you to undergo your personal targeted-memory reactivation process for improving your next-day problem solving abilities.
+Our main objective behind Cognitive Sleep is to allow you to undergo your own personal cognitive therapy, through self-experimenting and testing the possibilities that sleep, sound and music have to offer. As such, we intend to give you the necessary tools and information available in order to allow you to undergo your personal targeted-memory reactivation process for improving your next-day problem solving abilities.
 
 ### Targeted Memory-Reactivation Benefits:
 
@@ -28,7 +24,7 @@ Our experiment is based on citizen science fundamentals, whereby we encourage pu
 ## Materials:
 For this experiment, you will need:
 
-- A Laptop, Phone or Tablet;
+- A Laptop, Smartphone or Tablet;
 - A Sleep Monitoring and Cueing System (SMCS), provided by us; 
 - And a Spotify Premium Account*, which may also be provided by us. 
 
@@ -63,7 +59,7 @@ We hope that through memory reactivation during sleep, you will be able to restr
 
 In addition, our playlists are well-suited for "masking" unwanted outside noises, as well as having the possibility of fostering a harmonious atmosphere within the environment you're in.
 
-## FAQs:
+## FAQs (to be added soon):
 
 - What are the steps to follow before starting the experiment?
 - Is the experiment free?
@@ -75,6 +71,3 @@ In addition, our playlists are well-suited for "masking" unwanted outside noises
 - What does Open Source mean?
 - Can this experiment have any potential side-effects?
 - What if I decide to quit the experiment? 
-
-
-### Contact Info: 
